@@ -66,9 +66,9 @@ education:
 work:
   - position: Postdoctoral Researcher
     company_name: Department of Earth Sciences, University of Oregon
-    company_url: ''
+    company_url: https://naturalsciences.uoregon.edu/earth-sciences
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-08-15
     date_end: ''
     summary: |2-
       Responsibilities include:

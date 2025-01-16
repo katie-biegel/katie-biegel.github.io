@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title:
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Katie 
+last_name: Biegel
 
 # Status emoji
 status:
@@ -20,69 +20,51 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Oregon
+    url: https://naturalsciences.uoregon.edu/earth-sciences
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kbiegel@uoregon.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/katie-biegel
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/katie-biegel-303
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=0mLTGTYAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8682-6169
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Earthquake Seismology
+  - Environmental Seismology
+  - Natural Hazards
+  - Cascading Hazard due to Climate Change
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Geoscience
+    institution: University of Calgary
+    date_start: 2017-09-01
+    date_end: 2024-11-13
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Double-Difference Relocation. Supervised by [Dr. Jan Dettmer](https://profiles.ucalgary.ca/jan-dettmer).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://prism.ucalgary.ca/items/0a51f3ff-b94c-4c8a-94d1-75177d84524a'
+  - area: BSc Geophysical Engineering
+    institution: Colorado School of Mines
+    date_start: 2013-08-01
+    date_end: 2017-05-11
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.85/4.0
+      Senior Thesis on Data Adaptive Survey Design and Automation. Supervised by Dr. Paul Sava.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +165,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Katie Biegel is a postdoctoral researcher in the Observational Seismology Group in the Department of Earth Sciences at the University of Oregon. Her research interests include shallow crustal seismology, identifying fault networks and characteristics at depth, environmental seismology, natural hazards characterization and modeling, and understanding cascading hazard due to climate change.

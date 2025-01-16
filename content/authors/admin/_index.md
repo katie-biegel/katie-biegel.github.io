@@ -11,7 +11,7 @@ last_name: Biegel
 
 # Status emoji
 status:
-  icon: earth
+  icon: 🌍️
 
 # Is this the primary user of the site?
 superuser: true

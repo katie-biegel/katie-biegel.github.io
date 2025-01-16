@@ -1,6 +1,6 @@
 ---
 # Display name
-title:
+title: Katie M. Biegel
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -11,7 +11,7 @@ last_name: Biegel
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: earth
 
 # Is this the primary user of the site?
 superuser: true
@@ -46,7 +46,6 @@ interests:
   - Earthquake Seismology
   - Environmental Seismology
   - Natural Hazards
-  - Cascading Hazard due to Climate Change
 
 education:
   - area: PhD Geoscience
@@ -63,11 +62,10 @@ education:
     date_start: 2013-08-01
     date_end: 2017-05-11
     summary: |
-      GPA: 3.85/4.0
       Senior Thesis on Data Adaptive Survey Design and Automation. Supervised by Dr. Paul Sava.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral Researcher
+    company_name: Department of Earth Sciences, University of Oregon
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -126,10 +124,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Spanish
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

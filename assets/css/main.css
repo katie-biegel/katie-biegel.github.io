@@ -148,32 +148,32 @@ input, select, textarea {
 
 	h1 {
 		font-size: 2em;
-		line-height: 1.5em;
+		line-height: 1em;
 	}
 
 	h2 {
 		font-size: 1.5em;
-		line-height: 1.5em;
+		line-height: 1em;
 	}
 
 	h3 {
 		font-size: 1.25em;
-		line-height: 1.5em;
+		line-height: 1em;
 	}
 
 	h4 {
 		font-size: 1.1em;
-		line-height: 1.5em;
+		line-height: 1em;
 	}
 
 	h5 {
 		font-size: 0.9em;
-		line-height: 1.5em;
+		line-height: 1em;
 	}
 
 	h6 {
 		font-size: 0.7em;
-		line-height: 1.5em;
+		line-height: 1em;
 	}
 
 	sub {
@@ -3151,7 +3151,7 @@ input, select, textarea {
 			}
 
 				ul.labeled-icons li h3 {
-					line-height: 1.75em;
+					line-height: 1em;
 				}
 
 		/* Header */

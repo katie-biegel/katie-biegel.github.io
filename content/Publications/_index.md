@@ -2,7 +2,6 @@
 title: "Publications"
 draft: false
 description: "List of Publications"
-images: ["images/earth_logo.png"]
 
 lightgallery: false
 

@@ -2,7 +2,6 @@
 title: "The Team"
 draft: false
 description: "The Team"
-images: ["images/earth_logo.png"]
 
 lightgallery: false
 

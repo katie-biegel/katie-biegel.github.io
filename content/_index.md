@@ -14,7 +14,10 @@ description: "Environmental Seismology at UC Davis, part of Amanda Thomas' Obser
 # 
 
 <p style="font-size:1.25rem;">
-We use seismology tools and methods to study active processes on the Earth's surface and are currently focused on mass movements and other slope hazards. We are currently housed in the <a href="https://amtseismo.github.io/">Observational Seismology Group @ UC Davis</a>.
+We use seismology tools and methods to study active processes on the Earth's surface and are currently focused on mass movements and other slope hazards. We are currently housed in the 
+<a href="https://amtseismo.github.io/" 
+   target="_blank" 
+   rel="noopener noreferrer">Observational Seismology Group @ UC Davis</a>.
 </p>
 
 # Current Research Topics

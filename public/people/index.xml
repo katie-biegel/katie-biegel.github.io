@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>The Team on </title>
-		<link>//localhost:61189/people/</link>
+		<link>//localhost:64752/people/</link>
 		<description>Recent content in The Team on </description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -14,6 +14,6 @@
 		
 		
 		
-			<atom:link href="//localhost:61189/people/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="//localhost:64752/people/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

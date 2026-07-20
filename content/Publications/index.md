@@ -16,7 +16,7 @@ math:
 
 # Journal Articles
 
-5. Conner, A.E., Thomas, A.M., Allstadt, K.E., Thelen, W.A., Collins, E., Farin, M., Stephenson, W.J., Iezzi, A.M., and **K.M. Biegel**, 2026, Quantifying Seismic Properties of a River Channel at Mount Rainier for Use in Debris Flow Monitoring and Analysis, *Seismological Research Letters*, doi: 
+1. Conner, A.E., Thomas, A.M., Allstadt, K.E., Thelen, W.A., Collins, E., Farin, M., Stephenson, W.J., Iezzi, A.M., and **K.M. Biegel**, 2026, Quantifying Seismic Properties of a River Channel at Mount Rainier for Use in Debris Flow Monitoring and Analysis, *Seismological Research Letters*, doi: 
 [10.1785/0220250071](https://doi.org/10.1785/0220250071). <a href="/papers/Conners_2026.pdf" target="_blank" title="Download PDF">
   <img src="/images/pdf.svg" alt="PDF" width="18" style="vertical-align:text-bottom; margin-left:0.3em;">
 </a>
@@ -36,7 +36,7 @@ math:
 
 # Reviewed Government Reports
 
-6. Finley, T., Gosselin, J., **Biegel, K.**, Lipovsky, P., Cronmiller, D., Schaeffer, A., and J. Dettmer, 2026, The 6 December 2025 Mw 7.0 earthquake in Yukon, Canada: Tectonic significance and observations of ground failure, in: *Yukon Exploration and Geology 2025*, A. Stuart, L.H. Weston and S.K. Schultz (eds.), Yukon Geological Survey, Government of Yukon, p. 131–148. <a href="https://data.geology.gov.yk.ca/publication/96142" target="_blank" title="URL Link">
+1. Finley, T., Gosselin, J., **Biegel, K.**, Lipovsky, P., Cronmiller, D., Schaeffer, A., and J. Dettmer, 2026, The 6 December 2025 Mw 7.0 earthquake in Yukon, Canada: Tectonic significance and observations of ground failure, in: *Yukon Exploration and Geology 2025*, A. Stuart, L.H. Weston and S.K. Schultz (eds.), Yukon Geological Survey, Government of Yukon, p. 131–148. <a href="https://data.geology.gov.yk.ca/publication/96142" target="_blank" title="URL Link">
   <img src="/images/url-link.svg" alt="URL" width="18" style="vertical-align:text-bottom; margin-left:0.3em;">
 </a> <a href="/papers/Finley_2026_YEG.pdf" target="_blank" title="Download PDF">
   <img src="/images/pdf.svg" alt="PDF" width="18" style="vertical-align:text-bottom; margin-left:0.3em;">
@@ -61,7 +61,7 @@ math:
 
 # Code and Software Releases
 
-3. **Biegel, K.M.**, and J. Dettmer, 2024, relocDD-py (v1.0) Zenodo. doi: [10.5281/zenodo.10607406](https://doi.org/10.5281/zenodo.10607406).
+1. **Biegel, K.M.**, and J. Dettmer, 2024, relocDD-py (v1.0) Zenodo. doi: [10.5281/zenodo.10607406](https://doi.org/10.5281/zenodo.10607406).
 2. Allstadt, K. E., Thompson, E. M., Hearne, M., and **Biegel, K.M.**, 2018, groundfailure, USGS software release. doi: [10.5066/P91G4NS4](https://doi.org/10.5066/P91G4NS4).
 1. **Biegel, K.M.** and Allstadt, K.E., 2017, landslides-metadata version 1.0.0: USGS Software Release, doi: [10.5066/F7DN43Z6](https://doi.org/10.5066/F7DN43Z6).
 

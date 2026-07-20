@@ -41,3 +41,32 @@
 #header-desktop .header-social a:hover {
     color: var(--global-theme-color);
 }
+
+.gallery {
+  column-count: 1;
+  column-gap: 0;
+}
+
+@media (min-width: 640px) {
+  .gallery { column-count: 2; }
+}
+
+@media (min-width: 1024px) {
+  .gallery { column-count: 3; }
+}
+
+.gallery-item {
+  break-inside: avoid;
+  margin: 0;
+}
+
+.gallery img,
+.gallery video {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.gallery a {
+  display: block;
+}

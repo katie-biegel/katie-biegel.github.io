@@ -1,0 +1,19 @@
+<div class="gallery">
+{{ range .Page.Resources }}
+  {{ if eq .MediaType.MainType "image" }}
+    <a href="{{ .RelPermalink }}" class="gallery-item">
+      <img src="{{ (.Resize "300x").RelPermalink }}" alt="">
+    </a>
+  {{ else if and (eq .MediaType.MainType "video") (eq .MediaType.SubType "mp4") }}
+    <video
+      width="300"
+      autoplay
+      muted
+      loop
+      playsinline
+      controls>
+      <source src="{{ .RelPermalink }}" type="video/mp4">
+    </video>
+  {{ end }}
+{{ end }}
+</div>

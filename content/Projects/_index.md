@@ -2,7 +2,7 @@
 title: "Current Projects"
 draft: false
 description: "Ongoing Research Projects"
-images: ["../../static/images/earth-logo.png"]
+images: ["images/earth_logo.png"]
 
 lightgallery: false
 

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="434.46667"
+   height="591.86664"
+   viewBox="-274.15 0 651.70001 887.79996"
+   class="cf-icon-svg"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="pdf.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="217"
+     inkscape:cy="292.5"
+     inkscape:window-width="1728"
+     inkscape:window-height="1084"
+     inkscape:window-x="1103"
+     inkscape:window-y="1473"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     d="m -244.15,0 c -16.5,0 -30,13.5 -30,30 v 827.8 c 0,16.5 13.5,30 30,30 h 591.7 c 16.5,0 30,-13.5 30,-30 V 182.7 L 194.85,0 Z m 389.6,60 v 134.8 c 0,19.9 16.3,36.2 36.2,36.2 h 135.9 v 596.8 h -531.7 V 60 Z"
+     id="path1" />
+  <path
+     d="m -150.35,607.6 h 394.8 v 50 h -394.8 z m 0,-124.6 h 394.8 v 50 h -394.8 z m 0,-124.5 h 394.8 v 50 h -394.8 z"
+     id="path2" />
+  <circle
+     cx="-80.150002"
+     cy="221.29999"
+     r="60"
+     id="circle2" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.50235"
+     d="M -213.8,443.5 V 60.25 H -34.55 144.7 v 69.95097 c 0,49.2761 0.52139,71.69118 1.76403,75.83877 2.30751,7.70178 12.29628,18.92595 19.92791,22.39255 5.60449,2.54579 11.47687,2.75429 78.43306,2.78477 L 317.2,231.25 V 529 826.75 H 51.7 -213.8 Z m 459,189 v -26.25 h -198 -198 v 26.25 26.25 h 198 198 z m 0,-124.5 v -26.25 h -198 -198 V 508 534.25 h 198 198 z m 0,-124.5 v -26.25 h -198 -198 v 26.25 26.25 h 198 198 z M -67.99883,280.58695 c 24.541455,-5.13457 44.28627,-26.06817 47.65317,-50.52225 5.29101,-38.42894 -25.31508,-71.60955 -63.58527,-68.93396 -22.34389,1.56213 -40.9288,13.96601 -50.71752,33.84969 -4.63663,9.41837 -4.90155,10.84997 -4.90155,26.48802 0,15.06297 0.37248,17.29005 4.19292,25.06986 12.82724,26.12093 39.882705,39.79707 67.35825,34.04864 z"
+     id="path3" />
+</svg>

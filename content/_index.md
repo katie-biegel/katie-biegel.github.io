@@ -1,5 +1,6 @@
 ---
 title: "Environmental Seismology @ UC Davis"
+description: "Environmental Seismology at UC Davis, part of Amanda Thomas' Observational Seismology Group studies debris flows, outburst floods, and other slope hazards using seismic observations."
 ---
 
 # Natural Hazard Science for a Changing World.

@@ -2,9 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>//localhost:61189/categories/</loc></url><url>
-            <loc>//localhost:61189/projects/</loc></url><url>
-            <loc>//localhost:61189/</loc></url><url>
-            <loc>//localhost:61189/publications/</loc></url><url>
-            <loc>//localhost:61189/tags/</loc></url><url>
-            <loc>//localhost:61189/people/</loc></url></urlset>
+            <loc>//localhost:60091/categories/</loc></url><url>
+            <loc>//localhost:60091/projects/</loc></url><url>
+            <loc>//localhost:60091/</loc></url><url>
+            <loc>//localhost:60091/publications/</loc></url><url>
+            <loc>//localhost:60091/tags/</loc></url><url>
+            <loc>//localhost:60091/people/</loc></url></urlset>

@@ -502,7 +502,7 @@
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = "658b03bde8ad1d68"
+    google = "Z3kp80kDUCP2ICOh-57acTqqtRYW4o4XaFcgRM_VwmU"
     bing = ""
     yandex = ""
     pinterest = ""

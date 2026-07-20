@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title></title>
+        <link>//localhost:61189/</link>
+        <description>Natural Hazard Science in a Changing World</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kmbiegel@ucdavis.edu (Dr. Katie Biegel)</managingEditor>
+            <webMaster>kmbiegel@ucdavis.edu (Dr. Katie Biegel)</webMaster>
+            <atom:link href="//localhost:61189/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

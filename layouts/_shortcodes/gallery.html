@@ -1,5 +1,5 @@
 <div class="gallery">
-{{ range .Page.Resources }}
+{{ range .Page.Resources.Match "images/*"}}
   {{ if eq .MediaType.MainType "image" }}
     <a href="{{ .RelPermalink }}" class="gallery-item">
       <img src="{{ (.Resize "300x").RelPermalink }}" alt="">

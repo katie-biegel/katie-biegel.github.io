@@ -2,10 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>//localhost:64752/categories/</loc></url><url>
-            <loc>//localhost:64752/projects/</loc></url><url>
-            <loc>//localhost:64752/</loc></url><url>
-            <loc>//localhost:64752/photos/</loc></url><url>
-            <loc>//localhost:64752/publications/</loc></url><url>
-            <loc>//localhost:64752/tags/</loc></url><url>
-            <loc>//localhost:64752/people/</loc></url></urlset>
+            <loc>//localhost:1313/categories/</loc></url><url>
+            <loc>//localhost:1313/projects/</loc></url><url>
+            <loc>//localhost:1313/</loc></url><url>
+            <loc>//localhost:1313/photos/</loc></url><url>
+            <loc>//localhost:1313/publications/</loc></url><url>
+            <loc>//localhost:1313/tags/</loc></url><url>
+            <loc>//localhost:1313/people/</loc></url></urlset>

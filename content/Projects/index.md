@@ -62,7 +62,7 @@ Our recent report on the 6 Dec 2025 Yukon / Hubbard Glacier Earthquake can be fo
 <figure>
   <img src="images/Fig5_AnnotatedPhotos_final.svg" alt="Landslides triggered by the Dec 2025 Hubbard Glacier Earthquake" width="700">
   <figcaption>
-    A photo of landslides, rockfall events, and glacial feature collapses as the result of the 6 December 2025 Yukon earthquake and subsequent seismic activity. PC/Yukon Geological Survey.
+    A photo of landslides, rockfall events, and glacial feature collapses as the result of the 6 December 2025 Yukon earthquake and subsequent seismic activity. From: <a href="https://data.geology.gov.yk.ca/publication/96142">Finley et al., 2026, YEG 2025</a>. PC/Yukon Geological Survey.
   </figcaption>
 </figure>
 

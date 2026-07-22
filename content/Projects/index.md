@@ -51,7 +51,7 @@ We are currently working on compiling a catalog of mass movement events at seism
 
 # Earthquakes and Secondary Slope Hazards in Alaska and Yukon
 
-Tectonically active regions, like SW Yukon and SE Alaska, have the added complication of increased secondary hazards from earthquake-triggered landslides or other groundfailure events. In collaboration with the Yukon Geological Survey and the Natural Resources Canada, we are working on characterizing seismic risk in this region focused particularly on the Connector Fault.
+Tectonically active regions, like SW Yukon and SE Alaska, have the added complication of increased secondary hazards from earthquake-triggered landslides or other ground failure events. In collaboration with the Yukon Geological Survey and the Natural Resources Canada, we are working on characterizing seismic risk in this region focused particularly on the Totschunda-Fairweather Connector Fault in the St. Elias region.
 
 Our recent report on the 6 Dec 2025 Yukon / Hubbard Glacier Earthquake can be found here: <a href="https://data.geology.gov.yk.ca/publication/96142" target="_blank" title="URL Link">
   <img src="/images/url-link.svg" alt="URL" width="18" style="vertical-align:text-bottom; margin-left:0.3em;">

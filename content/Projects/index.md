@@ -20,7 +20,7 @@ Tahoma Creek on the SW corner of Mount Rainier has seasonal debris flows account
 
 Current work in review at *Seismological Research Letters* looks at the seismic characteristics over the transition from debris flow to hyperconcentrated flow that occured during a debris flow in 2023. This behaviour appears to be characteristic of the Tahoma Creek drainage as subsequent debris flows in 2025 and 2026 show similar patterns. 
 
-A recent paper talking about work characterizing seismic channel properties in Tahoma Creek can be found [here](https://doi.org/10.1785/0220250071). <a href="/papers/Conners_2026.pdf" target="_blank" title="Download PDF">
+Our recent paper characterizing seismic channel properties in Tahoma Creek can be found [here](https://doi.org/10.1785/0220250071). <a href="/papers/Conners_2026.pdf" target="_blank" title="Download PDF">
   <img src="/images/pdf.svg" alt="PDF" width="18" style="vertical-align:text-bottom; margin-left:0.3em;">
 </a><br><br>
 

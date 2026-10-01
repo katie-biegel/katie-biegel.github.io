@@ -13,6 +13,10 @@ math:
   enable: true
 ---
 
+{{< notice >}}
+Interested in our research? I am recruiting graduate students. Email Katie for open opportunities. <a href="mailto:kmbiegel@ucdavis.edu"><i class="fas fa-envelope"></i></a>
+{{< /notice >}}
+
 
 # Debris Flow Characterization at Mount Rainier
 

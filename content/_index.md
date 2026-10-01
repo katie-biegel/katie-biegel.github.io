@@ -3,6 +3,10 @@ title: "Environmental Seismology @ UC Davis"
 description: "Environmental Seismology at UC Davis, part of Amanda Thomas' Observational Seismology Group studies debris flows, outburst floods, and other slope hazards using seismic observations."
 ---
 
+{{< notice >}}
+Interested in our research? I am recruiting graduate students. Email Katie for open opportunities. <a href="mailto:kmbiegel@ucdavis.edu"><i class="fas fa-envelope"></i></a>
+{{< /notice >}}
+
 # Natural Hazard Science for a Changing World.
 
 {{< figure
@@ -18,6 +22,14 @@ We use seismology tools and methods to study active processes on the Earth's sur
 <a href="https://amtseismo.github.io/" 
    target="_blank" 
    rel="noopener noreferrer">Observational Seismology Group @ UC Davis</a>.
+</p>
+
+<p style="font-size:1.25rem;">
+Starting in Summer 2027, our research group will be moving to the 
+<a href="https://science.ucalgary.ca/earth" 
+   target="_blank" 
+   rel="noopener noreferrer">Department of Earth, Energy, and Environment</a> 
+at the University of Calgary. <b>I am recruiting graduate students to start in Fall 2027 at the University of Calgary.</b>
 </p>
 
 # Current Research Topics

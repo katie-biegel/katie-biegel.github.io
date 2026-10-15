@@ -21,10 +21,10 @@ Interested in our research? I am recruiting graduate students. Email Katie for o
 # Principal Investigator
 
 <div style="display: flex;">
-  <div style="width: 35%;">
-    <img src="/images/katie_headshot.jpg" width="100%">
+  <div style="width: 25%;">
+    <img src="/images/katie_headshot_new.jpeg" width="100%">
   </div>
-  <div style="width: 65%; padding-left: 100px;">
+  <div style="width: 75%; padding-left: 100px;">
     <p style="font-size:1.5rem;">
       Katie Biegel
     </p><br>
@@ -54,3 +54,26 @@ Interested in our research? I am recruiting graduate students. Email Katie for o
     </p>
   </div>
 </div>
+
+
+# Undergraduate Researchers
+
+<div style="display: flex;">
+  <div style="width: 25%;"><br>
+    <img src="/images/kalyn.jpeg" width="100%">
+  </div>
+  <div style="width: 75%; padding-left: 100px;">
+    <p style="font-size:1.5rem;">
+      Kalyn Weir     <a href="https://www.linkedin.com/in/k4lynw31r" target="_blank">
+    <i class="fab fa-linkedin"></i>
+    </a>
+    </p><br>
+    <i> B.Sc. Geology (Emphasis: Geohazards), Exp. Spring 2027, UC Davis </i><br>
+    <i> B.Sc. Applied Physics (Emphasis: Geophysics), 2026, UC Davis </i><br>
+    <p style="font-size:rem;">
+    Kalyn earned a degree in Applied Physics at the University of California, Davis, and is currently completing a degree in Geology. She is working to analyze seismic recordings from Black Mountain, NWT and investigate potential rockfall signals through waveform template matching. Outside of research, Kalyn tutors mathematics and physics and enjoys helping students build confidence in science.<br>
+    </p>
+  </div>
+</div>
+
+<div style="padding-bottom: 100px;"></div>
